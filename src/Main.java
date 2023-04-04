@@ -30,7 +30,7 @@ public class Main {
 	private static void walk(int steps) {
 		
 		if(steps<1)return;
-		System.out.println(" steps ");
+		System.out.println(" steps tow steps");
 		
 		steps--;
 		walk(steps);
