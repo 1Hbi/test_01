@@ -30,9 +30,8 @@ public class Main {
 	private static void walk(int steps) {
 		
 		if(steps<1)return;
-		System.out.println(" stssdsadsadasadsadsap ");
-		System.out.println(" stssdsadsadasadsadsap ");
-		System.out.println(" stssdsadsadasadsadsap ");
+		System.out.println(" steps ");
+		
 		steps--;
 		walk(steps);
 		
